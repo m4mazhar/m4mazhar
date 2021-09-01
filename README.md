@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m4mazhar
 - 👀 I’m interested in Java, Spring Boot, Docker, Microservice, Angular 
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Docker, Microservice etc.
 - 📫 How to reach me mazharidb@gmail.com
 
 <!---
