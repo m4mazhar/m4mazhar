@@ -5,7 +5,7 @@
 ### Who I am?
 
 - Hi, I’m Mazharul Islam
-- 10+ practical expeirence in <b>Software Development</b>
+- 10+ practical experience in <b>Software Development</b>
 - Develop <b>Courier & Logistics, Healthcare</b> products
 
 ### What I'm doing?
